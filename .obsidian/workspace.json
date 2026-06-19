@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Areas/数学学习.md",
+                "file": "20-Areas/考研记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学学习"
+              "title": "考研记录"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "fe810998685d8f6e",
   "lastOpenFiles": [
-    "20-Areas/考研记录.md",
-    "30-Dynamic/考研进度总览.md",
     "20-Areas/数学学习.md",
+    "20-Areas/考研记录.md",
     "00-Inbox/2026-06-19.md",
+    "30-Dynamic/考研进度总览.md",
     "30-Dynamic/考研计划表.md",
     "README.md",
     "conflict-files-obsidian-git.md",
