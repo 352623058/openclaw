@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42c93edfd83fa988",
+        "id": "147d2e4a0af5f0ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd35e34edc171d4",
+            "id": "49a23374eabfdcbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-Areas/股票投资.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "股票投资"
+              "title": "新标签页"
             }
           }
         ]
@@ -184,10 +180,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ffd35e34edc171d4",
+  "active": "49a23374eabfdcbf",
   "lastOpenFiles": [
-    "00-Inbox/2026-06-18.md",
     "20-Areas/股票投资.md",
+    "README.md",
+    "README.md",
+    "00-Inbox/2026-06-18.md",
     "20-Areas/考研计划表.md",
     "20-Areas/考研记录.md",
     "20-Areas/考研进度总览.md",
